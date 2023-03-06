@@ -28,6 +28,9 @@
     align-items: center;
     
 }
+.button{
+    width: 300px!important;
+}
 
 .c-right .user{
     width: 24rem;

@@ -19,13 +19,13 @@ const Footer = () => {
           </Col>
           <Col md="4" className="footer-copywright">
             <h3>Copyright © {year}</h3>
-            <img src={logo} className="img-fluid logo" alt="brand" />
+            {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
           </Col>
           <Col md="4" className="footer-body">
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/19sajib"
+                  href="#"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -35,7 +35,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/19sajib"
+                  href="#"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -45,7 +45,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/19sajib/"
+                  href="#"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -55,7 +55,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/19sajib"
+                  href="#"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
