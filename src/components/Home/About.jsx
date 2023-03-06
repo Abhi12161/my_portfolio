@@ -76,7 +76,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="#"
+                      href="https://github.com/Abhi12161"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -96,7 +96,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="#"
+                      href="https://www.linkedin.com/in/abhimanyu-kumar-388b8b18a/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
